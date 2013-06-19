@@ -1,0 +1,28 @@
+-----------------------------------------------------------
+- TODO
+
+- concorrencia 2 clients
+
+Sugestões: 
+- save / save as
+- Iniciar maximizado
+- Verificar save no new file
+
+-----------------------------------------------------------
+- Dúvidas
+
+Situacoes:
+- varios clientes, textos em fila
+- solucoes para o hashKey
+
+Te—ricas:
+- Sevidor Ž static, como controlar a entrada de clients?
+- Clientes simultaneos, excecao RMI, porta j‡ usada
+
+Padr‹o de C—digo:
+- V‡riaveis antes / depois dos mŽtodos?
+- Coment‡rios das vari‡veis?
+- Coment‡rios em ingles ou portugues?
+- inicializacao das variaves?
+- identificador do component swing: _itm, _mnu, ...
+- Cometario em portugues com acento
