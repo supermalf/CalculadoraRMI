@@ -26,7 +26,7 @@ em tópicos, o programa seria:
 
 3) Cliente e servidor devem se comunicar via RMI, segundo a interface:
 
-```
+```java
 /**
  * Interface de definição do serviço de análise de textos. Permite que
  * textos sejam armazenados para posteriores consultas. Oferece várias
@@ -94,11 +94,12 @@ public interface TextAnalyzer extends java.rmi.Remote {
 ```
 Sendo:
 
+```java
 public class WordCount implements java.io.Serializable {
   String word;
   int count;
 }
-
+```
 
 O único objetivo deste exercício é podermos avaliar os seus conhecimentos.
 Dessa forma, não faz sentido você pedir ajuda a alguém. É importante que o
